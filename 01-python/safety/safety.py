@@ -7,5 +7,3 @@ def draw_safety():
     draw_hospital()
     draw_policestation()
     return
-
-draw_safety()

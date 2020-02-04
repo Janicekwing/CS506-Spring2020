@@ -1,5 +1,8 @@
 def draw_firestation(length=20):
-
+    """
+        Argument length is the width of the building
+        Returns an image of a firestation building using keyboard characters
+    """
 
     for i in range(length):
         print('_', end = '')
